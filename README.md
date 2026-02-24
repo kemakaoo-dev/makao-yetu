@@ -35,7 +35,7 @@ To build Kenya’s most trusted rental discovery and property listing platform.
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 ### 1. Tenant
 - Browse listings
@@ -62,7 +62,7 @@ To build Kenya’s most trusted rental discovery and property listing platform.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 - Frontend
 - Backend
 - Docs
